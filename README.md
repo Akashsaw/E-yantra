@@ -1,6 +1,6 @@
 ## Revolving Turtle in the Turtlesim Window
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]https://github.com/Akashsaw/E-yantra/blob/main/Images/ssT1.jpeg?raw=true)
 
 
 Procedure: 

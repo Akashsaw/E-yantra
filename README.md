@@ -1,5 +1,8 @@
 ## Revolving Turtle in the Turtlesim Window
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 Procedure: 
 1. Create a Node named node_turtle_revolve
 2. Code an algorithm to revolve the turtle in a circular motion.
